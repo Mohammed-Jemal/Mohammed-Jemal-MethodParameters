@@ -23,7 +23,7 @@ public class Lab {
      * return;         | return String;
      *
      * @param text is a parameter passed into this method by whatever called it.
-     * @return text.
+     * @return "hello";
      */
     public String copy(String text){
         return text;
